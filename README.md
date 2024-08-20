@@ -1,2 +1,2 @@
-# CryptoSense-LuckSenseBot
-from Crypto Sense, the LuckSense game Bot
+# CryptoSense-LuckySenseBot
+from Crypto Sense, the LuckySense game Bot
